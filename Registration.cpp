@@ -20,6 +20,7 @@ int main(){
 	cout<<"\n\t\t\t Please enter your choice : ";
 	cin>>c;
 	cout<<endl;
+	cout<<endl;
 	
 	switch(c)
 	{
