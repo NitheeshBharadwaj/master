@@ -21,7 +21,7 @@ int main(){
 	cin>>c;
 	cout<<endl;
 	cout<<endl;
-	cout<<"demo purpose";
+	cout<<"demo purpose1";
 	
 	switch(c)
 	{
