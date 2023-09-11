@@ -106,6 +106,7 @@ void forgot(){
 			int count=0;
 			string suserID,sID,spass;
 			cout<<"\n\t\t\t Enter the username which you remembered : ";
+			cout>>"sep11";"
 			cin>>suserID;
 			
 			ifstream f2("records.txt");
